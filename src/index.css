@@ -1,81 +1,100 @@
 :root {
-    --primary-color: #d10000;
-    --secondary-color: #b30000;
-    --background-color: #fafafa;
-    --text-color: #222;
-    --border-radius: 10px;
+  --primary-color: #d10000;
+  --secondary-color: #b30000;
+  --background-color: #fafafa;
+  --text-color: #222;
+  --border-radius: 10px;
+  --border-color: #afafaf;
 }
 
 *,
 *::before,
 *::after {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 html {
-    font-size: 16px;
-    font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
-    color: var(--text-color);
-    background-color: var(--background-color);
-    line-height: 1.5;
+  font-size: 16px;
+  font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+  color: var(--text-color);
+  background-color: var(--background-color);
+  line-height: 1.5;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 a {
-    color: var(--primary-color);
-    text-decoration: none;
-    transition: color 0.2s;
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: color 0.2s;
 }
 a:hover {
-    color: var(--secondary-color);
-    text-decoration: underline;
+  color: var(--secondary-color);
+  text-decoration: underline;
 }
 
-ul, ol {
-    padding-left: 2rem;
+ul,
+ol {
+  padding-left: 2rem;
 }
 
 img {
-    max-width: 100%;
-    display: block;
+  max-width: 100%;
+  display: block;
 }
 
 button {
-    font: inherit;
-    cursor: pointer;
-    border: none;
-    background: var(--primary-color);
-    color: #fff;
-    padding: 0.5em 1em;
-    border-radius: var(--border-radius);
-    transition: background 0.2s;
+  font: inherit;
+  cursor: pointer;
+  border: none;
+  background: var(--primary-color);
+  color: #fff;
+  padding: 0.5em 1em;
+  border-radius: var(--border-radius);
+  transition: background 0.2s;
 }
 button:hover {
-    background: var(--secondary-color);
+  background: var(--secondary-color);
 }
 
-input, textarea, select {
-    font: inherit;
-    border: 1px solid #ccc;
-    border-radius: var(--border-radius);
-    padding: 0.5em;
-    outline: none;
-    transition: border-color 0.2s;
+input,
+textarea,
+select {
+  font: inherit;
+  border: 1px solid #ccc;
+  border-radius: var(--border-radius);
+  padding: 0.5em;
+  outline: none;
+  transition: border-color 0.2s;
 }
-input:focus, textarea:focus, select:focus {
-    border-color: var(--primary-color);
+input:focus,
+textarea:focus,
+select:focus {
+  border-color: var(--primary-color);
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-weight: 600;
-    line-height: 1.2;
-    margin-bottom: 0.5em;
-    color: var(--text-color);
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+  color: var(--text-color);
 }
 
 .container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
 }

@@ -1,0 +1,11 @@
+.layout {
+  width: 100%;
+  min-height: 100dvh;
+  padding: var(--padding-default);
+}
+
+@media screen and (min-width: 650px) {
+  .layout {
+    padding: 1rem 25%;
+  }
+}

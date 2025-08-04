@@ -2,9 +2,16 @@
   --primary-color: #d10000;
   --secondary-color: #b30000;
   --background-color: #fafafa;
+  --highlight: #ffdfdf;
   --text-color: #222;
   --border-radius: 10px;
-  --border-color: #afafaf;
+  --border-color: #dadada;
+  --padding-default: 1rem 1.25rem;
+  --icon-size: 1.6rem;
+  --text-size: 0.75rem;
+  --bar-bg: #f9fafb;
+  --inactive: #555;
+  --icon-size: font-size: 1.6rem;
 }
 
 *,
@@ -13,6 +20,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  transition: all 0.2s ease;
 }
 
 html {
@@ -31,14 +39,13 @@ body {
   padding: 0;
 }
 
-a {
+a, Link {
   color: var(--primary-color);
   text-decoration: none;
   transition: color 0.2s;
 }
 a:hover {
   color: var(--secondary-color);
-  text-decoration: underline;
 }
 
 ul,

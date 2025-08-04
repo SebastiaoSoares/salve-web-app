@@ -1,14 +1,20 @@
 import { Routes, Route } from "react-router-dom";
-import { Home, Salve, Aprenda, NotFound } from "../pages/";
+import { Home, Salve, Aprenda, Sobre, NotFound, FirstAccess } from "../pages";
+import useStorage from "../hooks/useStorage";
 import Layout from "../layout/Layout";
 
 export default function AppRoutes() {
+  const [visited] = useStorage("visited");
+
+  const isFirstAccess = !visited;
+
   return (
     <Routes>
-      <Route path="/" element={<Layout />}>
+      <Route element={isFirstAccess ? <FirstAccess /> : <Layout />}>
         <Route index element={<Home />} />
-        <Route path="/Salve" element={<Salve />} />
-        <Route path="/Aprenda" element={<Aprenda />} />
+        <Route path="salve" element={<Salve />} />
+        <Route path="aprenda" element={<Aprenda />} />
+        <Route path="sobre" element={<Sobre />} />
         <Route path="*" element={<NotFound />} />
       </Route>
     </Routes>

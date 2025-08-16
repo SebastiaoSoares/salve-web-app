@@ -1,0 +1,47 @@
+# Engasgo: como agir e fazer a manobra de Heimlich
+
+Quando uma pessoa engasga, deve-se observar se está respirando e se consegue falar ou tossir, uma vez que o engasgo pode bloquear parcialmente ou totalmente as vias respiratórias, sendo normalmente causado por pedaços de comida ou pequenos objetos.
+
+Na maior parte das vezes, o engasgamento é leve e a pessoa é capaz de limpar as vias respiratórias através da tosse e, por isso, deve-se solicitá-la para tossir com força ou pode-se bater nas costas da pessoa para que o objeto ou alimento seja eliminado das vias respiratórias.
+
+No entanto, quando essas manobras não aliviam o engasgo, a pessoa tem as vias aéreas totalmente bloqueadas, não consegue respirar, tossir ou falar, deve-se fazer a manobra de Heimlich, para desbloquear as vias aéreas. Caso a manobra não resolva o engasgamento, deve-se ligar para o SAMU no 192 ou levar a pessoa ao hospital imediatamente!
+
+### **Primeiros socorros para engasgamento**
+
+Os primeiros socorros para engasgamento são:
+
+**Engasgamento leve**
+
+Os primeiros socorros para engasgamento leve são:
+
+1. **Pedir para a pessoa tossir** 5 vezes com força;
+2. **Bater 5 vezes no meio das costas**, mantendo a mão aberta e num movimento rápido de baixo para cima.
+
+Durante o engasgamento leve, a pessoa é capaz de tossir, falar ou chorar, pois as vias aéreas estão parcialmente obstruídas, e essas medidas podem ajudar a eliminar o objeto ou o alimento preso nas vias aéreas.
+
+**Engasgamento grave**
+
+Os primeiros socorros para engasgamento grave é fazer a manobra de Heimlich, que consiste em:
+
+1. Ficar em pé atrás da vítima, que também deve estar em pé, como mostra o passo 1 da imagem;
+2. Passar os braços em volta do tronco da pessoa;
+3. Fechar a mão que tem mais força, com o polegar para baixo;
+4. Posicionar a mão fechada na região superior do abdômen ou "boca do estômago", que fica entre as costelas, como mostra o passo 2 da imagem;
+5. Colocar a outra mão sobre a mão que tem o punho cerrado;
+6. Fazer pressão com as mãos contra o estômago da pessoa, para dentro e para cima, como se fosse desenhar uma vírgula, como mostra o passo 3 da imagem.
+
+Essa manobra pode ser feita quando a técnica para engasgamento leve não teve resultado ou quando as vias aéreas estão completamente obstruídas, que pode ser identificada quando a pessoa não consegue tossir, falar ou chorar.
+
+### O que fazer quando engasgar sozinho
+
+Nos casos em que se está sozinho e a tosse não está ajudando, pode-se seguir os seguintes passos:
+
+1. **Ficar na posição de 4 apoios**, com os joelhos e mãos no chão;
+2. **Tirar o apoio dos dois braços ao mesmo tempo**, esticando-os para a frente;
+3. **Deixar o tronco cair em direção ao chão** de forma rápida, para empurrar o ar para fora dos pulmões.
+
+Esta manobra deve ser feita, de preferência, em cima de um tapete, mas numa superfície lisa e dura.
+
+No entanto, pode ser feita diretamente no chão, pois, embora exista risco de quebrar alguma costela, é uma manobra de emergência que pode ajudar a salvar a vida.
+
+Outra opção é realizar a manobra em cima de um balcão alto, apoiando o peso do corpo com os braços esticados sobre o balcão e depois deixando-o cair o tronco sobre o balcão com força.

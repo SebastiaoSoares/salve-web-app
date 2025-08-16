@@ -4,7 +4,7 @@
   align-items: center;
   justify-content: center;
   height: 100dvh;
-  padding: 0 3vw;
+  padding: 15vh 3vw 2vh;
   background: linear-gradient(145deg, #fffcfc, #f1e4e4);
   text-align: center;
   gap: 1.5rem;
@@ -61,6 +61,12 @@
 
 .button:hover:not(:disabled) {
   background: var(--primary-color);
+}
+
+.termsMessage {
+  margin-top: auto;
+  font-size: 0.8rem;
+  max-width: 75vw;
 }
 
 @media screen and (min-width: 650px) {

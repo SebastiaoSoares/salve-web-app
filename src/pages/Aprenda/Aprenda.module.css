@@ -1,0 +1,56 @@
+.cardsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.contentContainer {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: justify;
+}
+
+.contentContainer h1, h2, h3, h4, h5, h6 {
+  margin-top: 15px;
+}
+
+.contentContainer hr {
+  margin: 15px 0;
+}
+
+.return {
+  padding: 5px 10px;
+  border-radius: 5px;
+  display: inline-flex;
+  transition: all 0.2s ease-in;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.return ion-icon {
+  margin: auto 5px auto 0;
+  font-weight: 500;
+}
+
+.return:hover {
+  background-color: var(--highlight);
+  border-color: var(--secondary-color);
+  font-weight: 500;
+}
+
+.recommendedTitle {
+  margin-bottom: 0;
+}
+
+.videoDesc {
+  font-size: 0.8rem;
+  color: var(--text-light);
+}
+
+.video {
+  border-radius: 10px;
+  max-width: 100%;
+  margin-top: 20px;
+}

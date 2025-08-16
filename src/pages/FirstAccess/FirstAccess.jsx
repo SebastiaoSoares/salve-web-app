@@ -1,4 +1,4 @@
-import { useNavigate } from "react-router-dom";
+import { useNavigate, Link } from "react-router-dom";
 import useStorage from "../../hooks/useStorage";
 import styles from "./FirstAccess.module.css";
 import Logo from "../../components/Logo/Logo.jsx";
@@ -35,6 +35,7 @@ export default function FirstAccess() {
       >
         Começar
       </button>
+      <span className={styles.termsMessage}>Ao continuar você concorda com nossos <Link to={"terms-of-use"}>Termos de Serviço</Link> e <Link to={"privacy-policy"}>Política de Privacidade</Link>.</span>
     </div>
   );
 }

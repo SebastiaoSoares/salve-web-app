@@ -1,3 +1,13 @@
+.title {
+  margin: 10px 0 20px;
+  padding-bottom: 5px;
+}
+
+.title h1 {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
 .cardsContainer {
   display: flex;
   flex-wrap: wrap;
@@ -53,4 +63,8 @@
   border-radius: 10px;
   max-width: 100%;
   margin-top: 20px;
+}
+
+.quizz {
+  max-width: 100%;
 }

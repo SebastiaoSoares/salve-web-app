@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Qual é a primeira ação a ser tomada ao resgatar uma pessoa consciente que está se afogando?",
+    "alternatives": [
+      "Iniciar a ressuscitação cardiopulmonar (RCP) imediatamente.",
+      "Oferecer um objeto flutuante ou estender um objeto para que a pessoa possa se segurar.",
+      "Pular na água para salvar a pessoa, independentemente da sua capacidade de natação.",
+      "Tentar acalmar a vítima gritando instruções da margem."
+    ],
+    "response": "Oferecer um objeto flutuante ou estender um objeto para que a pessoa possa se segurar."
+  },
+  {
+    "question": "Após retirar da água uma vítima de afogamento que não está respirando, qual é a prioridade?",
+    "alternatives": [
+      "Aquecer a vítima com cobertores.",
+      "Tentar remover a água dos pulmões virando a vítima de cabeça para baixo.",
+      "Ligar para a emergência e iniciar imediatamente as compressões torácicas e ventilações (RCP).",
+      "Verificar se há fraturas."
+    ],
+    "response": "Ligar para a emergência e iniciar imediatamente as compressões torácicas e ventilações (RCP)."
+  },
+  {
+    "question": "Qual a principal medida de segurança ao socorrer alguém que está tendo uma convulsão?",
+    "alternatives": [
+      "Segurar firmemente os braços e pernas da pessoa para evitar movimentos.",
+      "Colocar um objeto rígido na boca da pessoa para evitar que ela morda a língua.",
+      "Proteger a cabeça da pessoa, afastando objetos perigosos ao redor.",
+      "Jogar água fria no rosto da pessoa para tentar interromper a crise."
+    ],
+    "response": "Proteger a cabeça da pessoa, afastando objetos perigosos ao redor."
+  },
+  {
+    "question": "Após uma crise convulsiva, como a pessoa deve ser posicionada enquanto recupera a consciência?",
+    "alternatives": [
+      "Sentada em uma cadeira.",
+      "Deitada de barriga para cima.",
+      "Deitada de lado (posição lateral de segurança).",
+      "De pé, com apoio para caminhar."
+    ],
+    "response": "Deitada de lado (posição lateral de segurança)."
+  },
+  {
+    "question": "Quando se deve ligar para o serviço de emergência (SAMU/Bombeiros) em caso de convulsão?",
+    "alternatives": [
+      "Apenas se a pessoa se machucar durante a crise.",
+      "Sempre, independentemente da duração da crise.",
+      "Se a crise durar mais de 5 minutos, se for a primeira vez da pessoa ou se houver dificuldade para respirar após a crise.",
+      "Apenas se a pessoa tiver mais de 60 anos."
+    ],
+    "response": "Se a crise durar mais de 5 minutos, se for a primeira vez da pessoa ou se houver dificuldade para respirar após a crise."
+  },
+  {
+    "question": "O que fazer imediatamente se uma pessoa sentir que vai desmaiar?",
+    "alternatives": [
+      "Correr para um local aberto.",
+      "Tomar um copo de água com açúcar.",
+      "Deitar-se com os pés elevados ou sentar-se com a cabeça entre os joelhos.",
+      "Tentar se manter em pé e respirar fundo."
+    ],
+    "response": "Deitar-se com os pés elevados ou sentar-se com a cabeça entre os joelhos."
+  },
+  {
+    "question": "Uma pessoa desmaiou e já está no chão. Qual é o procedimento correto?",
+    "alternatives": [
+      "Dar tapas leves no rosto para acordá-la.",
+      "Elevar as pernas da pessoa acima do nível do coração.",
+      "Oferecer álcool para ela cheirar.",
+      "Sentá-la imediatamente e oferecer água."
+    ],
+    "response": "Elevar as pernas da pessoa acima do nível do coração."
+  },
+  {
+    "question": "Qual é o sinal universal de engasgo em um adulto consciente?",
+    "alternatives": [
+      "Gritar por socorro.",
+      "Tossir ruidosamente e continuamente.",
+      "Levar as duas mãos ao pescoço.",
+      "Apontar para a própria boca."
+    ],
+    "response": "Levar as duas mãos ao pescoço."
+  },
+  {
+    "question": "Qual é a técnica de primeiros socorros para um adulto consciente engasgado que não consegue tossir?",
+    "alternatives": [
+      "Dar um copo de água para ajudar a descer o objeto.",
+      "Realizar a Manobra de Heimlich (compressões abdominais).",
+      "Dar tapas fortes no rosto.",
+      "Deitá-lo no chão e iniciar a RCP."
+    ],
+    "response": "Realizar a Manobra de Heimlich (compressões abdominais)."
+  },
+  {
+    "question": "O que fazer se uma pessoa que estava engasgada ficar inconsciente?",
+    "alternatives": [
+      "Continuar com as compressões abdominais.",
+      "Tentar retirar o objeto com os dedos, mesmo sem vê-lo.",
+      "Deitá-la com cuidado no chão, ligar para a emergência e iniciar a RCP, verificando a boca antes de cada ventilação.",
+      "Virar a pessoa de cabeça para baixo e sacudi-la."
+    ],
+    "response": "Deitá-la com cuidado no chão, ligar para a emergência e iniciar a RCP, verificando a boca antes de cada ventilação."
+  },
+  {
+    "question": "Ao suspeitar de uma fratura em um membro (braço ou perna), qual o principal objetivo do primeiro socorro?",
+    "alternatives": [
+      "Tentar colocar o osso no lugar (reduzir a fratura).",
+      "Fazer massagem no local para aliviar a dor.",
+      "Imobilizar a articulação acima e abaixo da lesão, da forma que se encontra.",
+      "Aplicar gelo diretamente sobre a pele."
+    ],
+    "response": "Imobilizar a articulação acima e abaixo da lesão, da forma que se encontra."
+  },
+  {
+    "question": "O que caracteriza uma fratura exposta?",
+    "alternatives": [
+      "É uma fratura que causa muita dor.",
+      "O osso quebrado perfura a pele e fica visível.",
+      "Acontece apenas em ossos grandes como o fêmur.",
+      "É uma fratura que não pode ser vista no raio-X."
+    ],
+    "response": "O osso quebrado perfura a pele e fica visível."
+  },
+  {
+    "question": "Em caso de fratura exposta, o que NUNCA se deve fazer?",
+    "alternatives": [
+      "Cobrir o ferimento com um pano limpo.",
+      "Ligar para o serviço de emergência.",
+      "Tentar empurrar o osso de volta para dentro.",
+      "Imobilizar o membro."
+    ],
+    "response": "Tentar empurrar o osso de volta para dentro."
+  },
+  {
+    "question": "Quais são os sinais e sintomas comuns de uma fratura?",
+    "alternatives": [
+      "Apenas uma leve vermelhidão na pele.",
+      "Dor intensa, inchaço (edema), deformidade no local e incapacidade de mover o membro.",
+      "Coceira e formigamento no local.",
+      "Febre alta e calafrios."
+    ],
+    "response": "Dor intensa, inchaço (edema), deformidade no local e incapacidade de mover o membro."
+  },
+  {
+    "question": "O que significa a sigla 'PCR' no contexto de emergências médicas?",
+    "alternatives": [
+      "Procedimento Cirúrgico Rápido.",
+      "Parada Cardiorrespiratória.",
+      "Pressão Craniana Reduzida.",
+      "Primeiro Cuidado Requerido."
+    ],
+    "response": "Parada Cardiorrespiratória."
+  },
+  {
+    "question": "Ao encontrar um adulto inconsciente que não respira, qual é a primeira etapa antes de iniciar a RCP?",
+    "alternatives": [
+      "Procurar por documentos de identificação.",
+      "Tentar oferecer água.",
+      "Garantir a segurança do local e ligar imediatamente para o serviço de emergência (SAMU/Bombeiros).",
+      "Começar as compressões torácicas sem chamar ajuda."
+    ],
+    "response": "Garantir a segurança do local e ligar imediatamente para o serviço de emergência (SAMU/Bombeiros)."
+  },
+  {
+    "question": "Qual é a frequência e profundidade corretas das compressões torácicas em um adulto durante a RCP?",
+    "alternatives": [
+      "60 compressões por minuto, com 2 cm de profundidade.",
+      "80 compressões por minuto, com 4 cm de profundidade.",
+      "De 100 a 120 compressões por minuto, com pelo menos 5 cm de profundidade.",
+      "140 compressões por minuto, o mais fundo possível."
+    ],
+    "response": "De 100 a 120 compressões por minuto, com pelo menos 5 cm de profundidade."
+  },
+  {
+    "question": "Onde exatamente no peito de um adulto devem ser feitas as compressões da RCP?",
+    "alternatives": [
+      "No lado esquerdo, sobre o coração.",
+      "Na parte superior do abdômen.",
+      "No centro do peito, na metade inferior do osso esterno.",
+      "Sobre as costelas do lado direito."
+    ],
+    "response": "No centro do peito, na metade inferior do osso esterno."
+  },
+  {
+    "question": "Qual é a proporção correta de compressões para ventilações (respiração boca a boca) na RCP em adultos, segundo as diretrizes atuais?",
+    "alternatives": [
+      "15 compressões para 1 ventilação.",
+      "30 compressões para 2 ventilações.",
+      "5 compressões para 1 ventilação.",
+      "50 compressões para 5 ventilações."
+    ],
+    "response": "30 compressões para 2 ventilações."
+  },
+  {
+    "question": "Qual é o primeiro cuidado para uma queimadura de primeiro grau (pele vermelha e ardendo)?",
+    "alternatives": [
+      "Aplicar pasta de dente ou manteiga.",
+      "Estourar qualquer bolha que aparecer.",
+      "Resfriar o local com água corrente em temperatura ambiente por vários minutos.",
+      "Cobrir imediatamente com um tecido grosso."
+    ],
+    "response": "Resfriar o local com água corrente em temperatura ambiente por vários minutos."
+  },
+  {
+    "question": "Por que não se deve aplicar gelo diretamente sobre uma queimadura?",
+    "alternatives": [
+      "Porque o gelo não alivia a dor.",
+      "Porque pode causar uma queimadura pelo frio, agravando a lesão na pele.",
+      "Porque derrete muito rápido.",
+      "Porque contamina a ferida."
+    ],
+    "response": "Porque pode causar uma queimadura pelo frio, agravando a lesão na pele."
+  },
+  {
+    "question": "O que caracteriza uma queimadura de terceiro grau?",
+    "alternatives": [
+      "Apenas vermelhidão e dor leve.",
+      "Formação de bolhas com líquido claro.",
+      "Destruição de todas as camadas da pele, podendo atingir músculos e ossos, e ter aparência esbranquiçada ou carbonizada.",
+      "Coceira intensa e descamação da pele."
+    ],
+    "response": "Destruição de todas as camadas da pele, podendo atingir músculos e ossos, e ter aparência esbranquiçada ou carbonizada."
+  },
+  {
+    "question": "O que NUNCA se deve fazer com as bolhas de uma queimadura de segundo grau?",
+    "alternatives": [
+      "Lavar o local com água e sabão.",
+      "Procurar atendimento médico.",
+      "Estourá-las, pois a pele da bolha protege contra infecções.",
+      "Cobrir com uma gaze limpa."
+    ],
+    "response": "Estourá-las, pois a pele da bolha protege contra infecções."
+  },
+  {
+    "question": "Em qual situação uma queimadura deve ser sempre considerada uma emergência médica?",
+    "alternatives": [
+      "Qualquer queimadura causada por sol.",
+      "Queimaduras pequenas que formam bolhas nos dedos.",
+      "Queimaduras de grande extensão, queimaduras elétricas, ou que atinjam rosto, mãos, pés e genitais.",
+      "Qualquer queimadura que pare de doer."
+    ],
+    "response": "Queimaduras de grande extensão, queimaduras elétricas, ou que atinjam rosto, mãos, pés e genitais."
+  },
+  {
+    "question": "Se a roupa de uma pessoa pegar fogo, qual a instrução correta de primeiros socorros?",
+    "alternatives": [
+      "Correr para buscar água.",
+      "Abanar as chamas com as mãos.",
+      "Dizer para a pessoa deitar no chão e rolar. Se possível, abafar com um cobertor ou casaco.",
+      "Tentar remover a roupa em chamas o mais rápido possível."
+    ],
+    "response": "Dizer para a pessoa deitar no chão e rolar. Se possível, abafar com um cobertor ou casaco."
+  },
+  {
+    "question": "Como proceder em caso de engasgo em um bebê (menor de 1 ano) consciente?",
+    "alternatives": [
+      "Realizar a Manobra de Heimlich da mesma forma que em um adulto.",
+      "Segurar o bebê de cabeça para baixo pelos pés e sacudir.",
+      "Posicionar o bebê de bruços sobre o antebraço, com a cabeça mais baixa que o corpo, e dar 5 tapas nas costas (entre as escápulas).",
+      "Oferecer água para o bebê."
+    ],
+    "response": "Posicionar o bebê de bruços sobre o antebraço, com a cabeça mais baixa que o corpo, e dar 5 tapas nas costas (entre as escápulas)."
+  },
+  {
+    "question": "Em um afogamento em água fria, a vítima pode ter hipotermia. Qual o cuidado principal relacionado a isso?",
+    "alternatives": [
+      "Dar bebidas quentes para a vítima beber imediatamente.",
+      "Fazer uma massagem vigorosa no corpo para aquecer.",
+      "Remover as roupas molhadas e aquecer a vítima gradualmente com cobertores secos.",
+      "Colocar a vítima em um banho quente."
+    ],
+    "response": "Remover as roupas molhadas e aquecer a vítima gradualmente com cobertores secos."
+  },
+  {
+    "question": "O que fazer se você suspeita de fratura na coluna de uma vítima de acidente?",
+    "alternatives": [
+      "Ajudar a vítima a se sentar para ficar mais confortável.",
+      "Não mover a vítima de forma alguma e acionar o serviço de emergência especializado.",
+      "Verificar se ela consegue mover as pernas e os braços.",
+      "Remover o capacete, se for um motociclista."
+    ],
+    "response": "Não mover a vítima de forma alguma e acionar o serviço de emergência especializado."
+  },
+  {
+    "question": "Para uma queimadura química nos olhos, qual o procedimento imediato?",
+    "alternatives": [
+      "Esfregar os olhos para remover o produto.",
+      "Pingar colírio.",
+      "Lavar os olhos continuamente com água corrente por pelo menos 15 minutos e procurar socorro médico.",
+      "Fechar os olhos e esperar a dor passar."
+    ],
+    "response": "Lavar os olhos continuamente com água corrente por pelo menos 15 minutos e procurar socorro médico."
+  },
+  {
+    "question": "Quando se deve parar de realizar a RCP em uma vítima?",
+    "alternatives": [
+      "Após 5 minutos, mesmo que a ajuda não tenha chegado.",
+      "Quando você estiver exausto e não conseguir mais continuar, ou quando a ajuda especializada chegar e assumir o caso.",
+      "Assim que a vítima der um suspiro.",
+      "Quando um familiar da vítima pedir para parar."
+    ],
+    "response": "Quando você estiver exausto e não conseguir mais continuar, quando a ajuda especializada chegar e assumir o caso, ou se a vítima apresentar sinais claros de vida (respiração/movimentos)."
+  }
+]

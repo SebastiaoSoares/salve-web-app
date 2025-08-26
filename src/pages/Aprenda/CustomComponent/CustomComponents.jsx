@@ -1,6 +1,6 @@
 import Quizz from "../Quizz/Quizz";
 
-export function CustomComponent({ type, className }) {
+export function CustomComponent({ type, className, data }) {
   switch (type) {
     case "quizz":
       return (

@@ -5,7 +5,7 @@
   align-items: center;
   gap: 0.75rem;
   padding: 0.75rem var(--padding-default);
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 0 15px -5px rgba(0, 0, 0, 0.25);
   position: sticky;
   top: 0;
   z-index: 100;

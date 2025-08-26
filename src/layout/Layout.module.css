@@ -2,6 +2,7 @@
   width: 100%;
   min-height: 100dvh;
   padding: var(--padding-default);
+  background-color: var(--background-color);
 }
 
 @media screen and (min-width: 650px) {

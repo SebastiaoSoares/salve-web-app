@@ -1,6 +1,7 @@
 .title {
   margin: 10px 0 20px;
   padding-bottom: 5px;
+  animation: contentFadeIn 0.5s ease-in-out;
 }
 
 .title h1 {
@@ -12,6 +13,7 @@
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
+  animation: contentFadeIn 0.5s ease-in-out;
 }
 
 .contentContainer {
@@ -20,9 +22,15 @@
   flex-direction: column;
   gap: 10px;
   text-align: justify;
+  animation: contentFadeIn 0.5s ease-in-out;
 }
 
-.contentContainer h1, h2, h3, h4, h5, h6 {
+@keyframes contentFadeIn {
+  from { opacity: 0; transform: translateY(15px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.contentContainer h1, .contentContainer h2, .contentContainer h3, .contentContainer h4, .contentContainer h5, .contentContainer h6 {
   margin-top: 15px;
 }
 
@@ -68,3 +76,4 @@
 .quizz {
   max-width: 100%;
 }
+

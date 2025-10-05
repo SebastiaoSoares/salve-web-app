@@ -1,0 +1,119 @@
+{
+  "emergenciaESeguranca": [
+    {
+      "nome": "SAMU (Atendimento Médico de Urgência)",
+      "descricao": "Para situações de urgência e emergência médica em todo o país.",
+      "telefone": "192",
+      "endereco": null
+    },
+    {
+      "nome": "Polícia Militar",
+      "descricao": "Para emergências policiais e segurança pública.",
+      "telefone": "190",
+      "endereco": null
+    },
+    {
+      "nome": "Corpo de Bombeiros",
+      "descricao": "Para resgates, incêndios e outros acidentes.",
+      "telefone": "193",
+      "endereco": null
+    },
+    {
+      "nome": "Central de Atendimento à Mulher",
+      "descricao": "Canal nacional para denúncias de violência contra a mulher. A ligação é gratuita e confidencial.",
+      "telefone": "180",
+      "endereco": null
+    },
+    {
+      "nome": "Disque Direitos Humanos",
+      "descricao": "Serviço nacional para denunciar violações de direitos humanos.",
+      "telefone": "100",
+      "endereco": null
+    },
+    {
+      "nome": "Delegacia de Defesa da Mulher (DDM) - Juazeiro do Norte",
+      "descricao": "Acolhimento e proteção à mulher vítima de violência.",
+      "telefone": "(88) 3102-1102",
+      "endereco": "Casa da Mulher Cearense no Cariri - Av. Padre Cícero, 4501 - São José, Juazeiro do Norte - CE, 63041-140"
+    },
+    {
+      "nome": "Hospital Regional do Cariri (HRC)",
+      "descricao": "Principal referência para emergências de média e alta complexidade na região.",
+      "telefone": "(88) 3566-3600",
+      "endereco": "Rua Catulo da Paixão Cearense, S/N, Triângulo, Juazeiro do Norte - CE"
+    }
+  ],
+  "instituicoes": [
+    {
+      "nome": "Hospital Regional do Cariri (HRC)",
+      "descricao": "Unidade da Sesa, referência em atendimentos de média e alta complexidade, incluindo trauma e neurologia.",
+      "link": "https://www.isgh.org.br/onde-estamos/hospital-regional-do-cariri",
+      "telefone": "(88) 3566-3600"
+    },
+    {
+      "nome": "Hemoce - Unidades Crato e Juazeiro do Norte",
+      "descricao": "Centro de Hematologia e Hemoterapia do Ceará, responsável pela doação e distribuição de sangue.",
+      "link": "https://www.hemoce.ce.gov.br/locais-de-doacao/",
+      "telefone": "(88) 3102-1260 (Crato) / (88) 3102-1169 (Juazeiro)"
+    },
+    {
+      "nome": "Pronto Socorro São Camilo",
+      "descricao": "Oferece serviço 24h para atendimento de urgência/emergência em pronto-socorro nas especialidades de Clínica Médica, Clínica Cirúrgica, Ortopedia, Clínica Obstétrica e Clínica Pediátrica.",
+      "link": "https://www.saocamilocrato.org.br/",
+      "telefone": "(88) 3312-4000",
+      "endereco": "Rua Coronel Antônio Luiz, 1028 - Pimenta, Crato - CE"
+    },
+    {
+      "nome": "UPA 24h Limoeiro (Juazeiro do Norte)",
+      "descricao": "Unidade de Pronto Atendimento para casos de urgência de complexidade intermediária.",
+      "link": null,
+      "telefone": "(88) 2155-1339",
+      "endereco": "R. Cap. Domingos, s/n - Limoeiro, Juazeiro do Norte - CE"
+    },
+    {
+      "nome": "CAPS AD III (Álcool e Drogas) - Juazeiro do Norte",
+      "descricao": "Centro de Atenção Psicossocial especializado no tratamento de transtornos decorrentes do uso de substâncias.",
+      "link": null,
+      "telefone": null,
+      "endereco": "R. Antônio de Freitas, 118 - Tiradentes, Juazeiro do Norte - CE"
+    },
+    {
+      "nome": "Policlínica Regional do Cariri",
+      "descricao": "Localizada no Crato, oferece consultas e exames em diversas especialidades médicas.",
+      "link": null,
+      "telefone": "(88) 3521-0557",
+      "endereco": "Rua Vicente Alencar de Oliveira, S/N - Mirandão, Crato - CE"
+    }
+  ],
+  "institutosEPesquisa": [
+    {
+      "nome": "Universidade Federal do Cariri (UFCA) - Famed",
+      "descricao": "Faculdade de Medicina da UFCA, fundamental na formação de médicos com enfoque na saúde da região.",
+      "link": "https://ufca.edu.br/portal/cursos/graduacao/faculdade-de-medicina/",
+      "telefone": "(88) 3221-9200"
+    },
+    {
+      "nome": "Universidade Regional do Cariri (URCA) - CCBS",
+      "descricao": "Centro de Ciências Biológicas e da Saúde, oferece cursos como Medicina, Enfermagem e Educação Física.",
+      "link": "https://www.urca.br/ccbs/",
+      "telefone": "(88) 3102-1204 (Ramal 2602)"
+    }
+  ],
+  "paginasEPortais": [
+    {
+      "nome": "Secretaria da Saúde do Ceará (Sesa)",
+      "descricao": "Informações oficiais sobre a saúde no estado, programas e serviços.",
+      "link": "https://www.saude.ce.gov.br/"
+    },
+    {
+      "nome": "Instituto de Saúde e Gestão Hospitalar (ISGH)",
+      "descricao": "Organização Social que gerencia diversas unidades de saúde no Ceará, incluindo o HRC.",
+      "link": "https://www.isgh.org.br/"
+    },
+    {
+      "nome": "Conselho Regional de Enfermagem do Ceará (Coren-CE)",
+      "descricao": "Informações e notícias para os profissionais de enfermagem da região.",
+      "link": "https://www.coren-ce.org.br/"
+    }
+  ]
+}

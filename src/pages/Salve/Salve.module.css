@@ -1,0 +1,189 @@
+.loading,
+.error {
+  padding: 4rem 1rem;
+  text-align: center;
+  font-size: 1.2rem;
+  color: var(--text-light);
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.error {
+  color: var(--primary-color);
+  font-weight: 500;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.header {
+  margin: 10px 0 20px;
+  padding-bottom: 5px;
+  animation: contentFadeIn 0.5s ease-in-out;
+}
+
+.header h1 {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.header p {
+  font-size: 1.1rem;
+  color: var(--text-light);
+}
+
+.mainContent {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.section h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: var(--secondary-color);
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--highlight);
+}
+
+.section h2 i {
+  font-size: 1.3rem;
+}
+
+.contactList {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.contactList li {
+  background-color: #fff;
+  border: 1px solid var(--border-color);
+  border-left: 5px solid var(--primary-color);
+  padding: var(--padding-default);
+  border-radius: var(--border-radius);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.contactList li strong {
+  display: block;
+  font-size: 1.1rem;
+  margin-bottom: 0.25rem;
+}
+
+.contactList li p {
+  margin: 0;
+  color: var(--text-light);
+  line-height: 1.6;
+}
+
+.cardContainer {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.card {
+  background: #fff;
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  padding: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+}
+
+.card h3 {
+  font-size: 1.2rem;
+  margin-top: 0;
+  color: var(--text-color);
+}
+
+.card p {
+  color: var(--text-light);
+  flex-grow: 1;
+}
+
+.card a {
+  display: inline-block;
+  background: var(--highlight);
+  color: var(--primary-color);
+  padding: 0.6rem 1rem;
+  border-radius: var(--border-radius);
+  font-weight: 600;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.card a:hover {
+  background: var(--primary-color);
+  color: #fff;
+}
+
+.linkList {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.linkList li {
+  background: #fff;
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  padding: var(--padding-default);
+  transition: border-left-color 0.3s ease;
+  border-left: 5px solid var(--highlight);
+}
+
+.linkList li:hover {
+  border-left-color: var(--primary-color);
+}
+
+.linkList li a {
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.linkList li p {
+  margin: 0.25rem 0 0;
+  color: var(--text-light);
+}
+
+.footer {
+  text-align: center;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-color);
+  font-size: 0.9rem;
+  color: var(--text-light);
+}

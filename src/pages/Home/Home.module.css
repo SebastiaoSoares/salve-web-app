@@ -1,6 +1,7 @@
 .titleContainer {
     max-width: fit-content;
     margin: 0 auto 30px;
+    animation: contentFadeIn 0.5s ease-in-out;
 }
 
 .titleContainer h1 {
@@ -36,12 +37,19 @@
 
 .description {
     display: block;
-    text-align: center;
     font-size: 1rem;
     color: #555;
-    font-style: italic;
     border-radius: 8px;
-    margin: 20px;
+    margin-top: -5px;
+}
+
+.socorroLinks {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 10px;
+    margin-bottom: 20px;
+    padding: 10px 0;
+    animation: contentFadeIn 0.5s ease-in-out;
 }
 
 .links {
@@ -50,6 +58,21 @@
     gap: 20px;
     overflow-x: auto;
     margin-bottom: 20px;
+    padding: 10px 0;
+    animation: contentFadeIn 0.5s ease-in-out;
+}
+
+.socorroLink {
+    display: block;
+    font-size: 0.8rem;
+    line-height: 100%;
+    color: var(--text-color);
+    background: var(--highlight);
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    margin: 0 auto;
+    width: 100%;
 }
 
 .link {
@@ -64,6 +87,10 @@
     min-width: 300px;
 }
 
+.socorroLink h3 {
+    margin: 0;
+}
+
 .link h2 {
     font-size: 1.2rem;
     margin: 5px 0;
@@ -74,4 +101,9 @@
 
 .link:hover * {
     color: var(--text-color);
+}
+
+@keyframes contentFadeIn {
+  from { opacity: 0; transform: translateY(15px); }
+  to { opacity: 1; transform: translateY(0); }
 }

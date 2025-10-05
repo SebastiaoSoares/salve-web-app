@@ -1,0 +1,57 @@
+@keyframes contentFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.sobreContainer {
+  padding: var(--padding-default);
+  animation: contentFadeIn 0.5s ease-in-out;
+}
+
+.title {
+  margin: 10px 0 20px;
+  padding-bottom: 5px;
+  animation: contentFadeIn 0.5s ease-in-out;
+}
+
+.title h1 {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.title p {
+    font-size: 1.1rem;
+    color: var(--text-light);
+}
+
+.paragrafo {
+  text-align: justify;
+  margin-bottom: 1rem;
+  line-height: 1.6;
+  color: var(--text-light);
+}
+
+.creditos {
+  margin-top: 2.5rem;
+  padding: var(--padding-default);
+  background-color: var(--bar-bg);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+.creditos p {
+  margin-bottom: 0;
+  color: var(--text-color);
+}
+
+.creditos a {
+  font-weight: 600;
+}

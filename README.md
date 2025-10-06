@@ -1,12 +1,35 @@
-# React + Vite
+# Projeto SALVE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Suporte e Assistência para Lidar com Vítimas em Emergências
+Plataforma web para popularizar o conhecimento em primeiros socorros.
 
-Currently, two official plugins are available:
+Este projeto é uma iniciativa do Laboratório Juventudes, do curso de Aprendizagem Profissional do SENAC Crato-CE, e visa capacitar a comunidade com informações vitais que podem salvar vidas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
+- React e Vite
+- React Router para as rotas da aplicação
+- CSS Modules para estilização
+- Markdown para o conteúdo dos artigos
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Como Executar
+
+Clone o projeto:
+```bash
+git clone https://github.com/SebastiaoSoares/salve-web-app.git
+```
+
+Entre na pasta:
+```bash
+cd salve-web-app
+```
+
+Instale as dependências:
+```bash
+npm install
+```
+
+Execute o projeto:
+```bash
+npm run dev
+```

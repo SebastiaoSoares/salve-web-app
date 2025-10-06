@@ -1,14 +1,33 @@
 import Style from "./Home.module.css";
 import { Link, useParams } from "react-router-dom";
+import { MarkdownContent } from "../../components";
+
+const socorros = {
+  afogamento: "Afogamento",
+  convulsao: "Convulsão",
+  desmaio: "Desmaio",
+  engasgo: "Engasgo",
+  fratura: "Fratura",
+  pcr: "Parada Cardiorrespiratória",
+  queimadura: "Queimadura",
+};
 
 export default function Home() {
   const { content } = useParams();
 
-  if (content) {
+  if (content && socorros[content]) {
+    window.scrollTo(0, 0);
+
     return (
-      <main>
-        <h1>{content}</h1>
-        <p>Descrição sobre como agir em caso de {content}.</p>
+      <main className={Style.contentPage}>
+        <Link className={Style.return} to="/">
+          <ion-icon name="arrow-back-circle-outline"></ion-icon>
+          <span>Voltar</span>
+        </Link>
+
+        <div className={Style.contentContainer}>
+          <MarkdownContent filePath={`/content/socorros/${content}.md`} />
+        </div>
       </main>
     );
   }
@@ -46,17 +65,11 @@ export default function Home() {
       </div>
       <div>
         <h2>Primeiros Socorros</h2>
-        <p className={Style.description}>Agir agora</p>
+        <p className={Style.description}>
+          Passos rápidos para agir em emergências
+        </p>
         <div className={Style.socorroLinks}>
-          {Object.entries({
-            afogamento: "Afogamento",
-            convulsao: "Convulsão",
-            desmaio: "Desmaio",
-            engasgo: "Engasgo",
-            fratura: "Fratura",
-            pcr: "Parada Cardiorrespiratória",
-            queimadura: "Queimadura",
-          }).map(([key, value]) => (
+          {Object.entries(socorros).map(([key, value]) => (
             <Link
               key={key}
               to={`/socorro/${key}`}

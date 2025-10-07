@@ -1,0 +1,83 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  min-height: 100dvh;
+  background: linear-gradient(145deg, #fffcfc, #f1e4e4);
+}
+
+.markdown {
+  padding: 1.5rem;
+  max-width: 800px;
+  animation: contentFadeIn 0.5s ease-in-out;
+  line-height: 1.7;
+  color: var(--text-light);
+  box-shadow: 0 0 10px -5px black;
+  border-radius: 10px;
+}
+
+@keyframes contentFadeIn {
+  from { opacity: 0; transform: translateY(15px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.return {
+  padding: 5px 10px;
+  border-radius: 5px;
+  display: inline-flex;
+  align-items: center;
+  transition: all 0.2s ease-in;
+  font-size: 1rem;
+  font-weight: 500;
+  margin-bottom: 2rem;
+  color: var(--primary-color);
+}
+
+.return ion-icon {
+  margin: auto 5px auto 0;
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+
+.return:hover {
+  background-color: var(--highlight);
+  border-color: var(--secondary-color);
+  font-weight: 500;
+}
+
+/* --- Estilos Padrão do Conteúdo --- */
+
+.legalContainer h1,
+.legalContainer h2,
+.legalContainer h3 {
+  color: var(--text-color);
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.legalContainer p {
+  margin-bottom: 1rem;
+}
+
+.legalContainer ol,
+.legalContainer ul {
+  padding-left: 25px;
+  margin-bottom: 1rem;
+}
+
+.legalContainer li {
+  margin-bottom: 0.8rem;
+  padding-left: 10px;
+}
+
+.legalContainer strong {
+  font-weight: 700;
+  color: var(--secondary-color);
+}
+
+.legalContainer li ul {
+  margin-top: 0.8rem;
+}
+

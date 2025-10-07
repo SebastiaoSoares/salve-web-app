@@ -1,5 +1,5 @@
 # Política de Privacidade – SALVE | Primeiros Socorros
-_Atualizado em: 03 de agosto de 2025_
+_Atualizado em: 06 de outubro de 2025_
 
 A sua privacidade é importante para nós. É política do SALVE | Primeiros Socorros respeitar a sua privacidade em relação a qualquer informação pessoal que possamos coletar por meio do aplicativo e de outros ambientes digitais que operamos.
 
@@ -45,6 +45,6 @@ Se restar alguma dúvida sobre esta política ou sobre o tratamento de informaç
 
 ---
 
-_Esta política é válida a partir de 3 de agosto de 2025._
+_Esta política é válida a partir de 6 de outubro de 2025._
 
 ---

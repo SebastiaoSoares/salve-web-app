@@ -1,12 +1,41 @@
+import { useEffect } from "react";
 import { useNavigate, Link } from "react-router-dom";
 import useStorage from "../../hooks/useStorage";
 import styles from "./FirstAccess.module.css";
 import Logo from "../../components/Logo/Logo.jsx";
 
+import { contents } from "../Aprenda/contents"; 
+
 export default function FirstAccess() {
   const [nome, setNome] = useStorage("nome", "");
   const [, setVisited] = useStorage("visited", "false");
   const navigate = useNavigate();
+
+  useEffect(() => {
+    if (!navigator.onLine) {
+      console.log("Offline: pulando o download prévio dos arquivos.");
+      return; 
+    }
+
+    fetch("/dados_salve.json").catch(() => console.log("Falha ao pré-carregar JSON"));
+
+    fetch("/docs/terms-of-use.md").catch(() => {});
+    fetch("/docs/privacy-policy.md").catch(() => {});
+
+    if (contents) {
+      Object.keys(contents).forEach((key) => {
+        const item = contents[key];
+        if (item.type === "content") {
+          fetch(`/content/${key}.md`).catch(() => 
+            console.log(`Falha ao pré-carregar conteúdo do Aprenda: ${key}`)
+          );
+          fetch(`/content/socorros/${key}.md`).catch(() => 
+            console.log(`Falha ao pré-carregar Primeiros Socorros Rápidos: ${key}`)
+          );
+        }
+      });
+    }
+  }, []);
 
   function handleStart() {
     if (!nome.trim()) return;

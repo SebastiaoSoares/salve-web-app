@@ -1,6 +1,4 @@
 # Projeto SALVE
-
-Suporte e Assistência para Lidar com Vítimas em Emergências
 Plataforma web para popularizar o conhecimento em primeiros socorros.
 
 Este projeto é uma iniciativa do Laboratório Juventudes, do curso de Aprendizagem Profissional do SENAC Crato-CE, e visa capacitar a comunidade com informações vitais que podem salvar vidas.

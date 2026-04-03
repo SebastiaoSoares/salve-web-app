@@ -1,4 +1,5 @@
 import Style from "./Sobre.module.css";
+import { Link } from "react-router-dom";
 
 export default function Sobre() {
   return (
@@ -22,6 +23,12 @@ export default function Sobre() {
         acesso a informações vitais para que qualquer pessoa possa agir com mais
         segurança em situações de emergência.
       </p>
+      <p className={Style.paragrafo}>
+        Nosso contato é através do email:{" "}
+        <a href="mailto:salve.primeiros.socorros@gmail.com">
+          salve.primeiros.socorros@gmail.com
+        </a>
+      </p>
       <div className={Style.creditos}>
         <p>
           A solução digital do projeto foi desenvolvida por Sebastião Sousa
@@ -36,6 +43,11 @@ export default function Sobre() {
           ).
         </p>
       </div>
+      <p className={Style.termsMessage}>
+        Ao continuar você concorda com nossos{" "}
+        <Link to={"/terms-of-use"}>Termos de Uso</Link> e{" "}
+        <Link to={"/privacy-policy"}>Política de Privacidade</Link>.
+      </p>
     </main>
   );
 }

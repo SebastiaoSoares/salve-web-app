@@ -1,10 +1,10 @@
 # Termos de Uso – SALVE | Primeiros Socorros
-_Atualizado em: 03 de agosto de 2025_
+_Atualizado em: 06 de outubro de 2025_
 
 Ao acessar e utilizar o aplicativo ou site SALVE | Primeiros Socorros, você concorda com os termos aqui descritos. Caso não concorde com algum ponto, recomendamos que não utilize nossos serviços.
 
 ## 1. Aceitação dos Termos
-Ao acessar o SALVE, você declara estar de acordo com estes Termos de Uso, com as leis e regulamentos aplicáveis, e aceita ser o único responsável pelo cumprimento da legislação local vigente. O conteúdo disponibilizado é protegido por leis de direitos autorais e marcas comerciais.
+Ao acessar o SALVE, você declara estar de acordo com estes Termos de Uso, com a nossa Política de Privacidade, com as leis e regulamentos aplicáveis, e aceita ser o único responsável pelo cumprimento da legislação local vigente. O conteúdo disponibilizado pode ser protegido por leis de direitos autorais e marcas comerciais.
 
 ## 2. Licença de Uso
 Concede-se permissão para download temporário de conteúdos (textos, imagens, materiais interativos) para uso estritamente pessoal e não comercial. Essa é uma licença limitada e revogável, e não uma transferência de titularidade. Sob esta licença, não é permitido:
@@ -49,3 +49,9 @@ Os Termos de Uso podem ser alterados a qualquer momento, sem aviso prévio. O us
 ## 8. Legislação Aplicável
 
 Estes Termos de Uso são regidos pelas leis brasileiras. Em caso de conflito, o usuário concorda em submeter-se à jurisdição dos tribunais localizados na comarca de Crato – CE, renunciando a qualquer outro, por mais privilegiado que seja.
+
+---
+
+_Estes termos são válidos a partir de 6 de outubro de 2025._
+
+---

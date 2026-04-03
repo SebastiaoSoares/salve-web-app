@@ -26,8 +26,8 @@
 }
 
 .title p {
-    font-size: 1.1rem;
-    color: var(--text-light);
+  font-size: 1.1rem;
+  color: var(--text-light);
 }
 
 .paragrafo {
@@ -54,4 +54,11 @@
 
 .creditos a {
   font-weight: 600;
+}
+
+.termsMessage {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 0.8rem;
+  max-width: 75vw;
 }

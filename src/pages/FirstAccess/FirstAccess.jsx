@@ -27,7 +27,10 @@ export default function FirstAccess() {
         const item = contents[key];
         if (item.type === "content") {
           fetch(`/content/${key}.md`).catch(() => 
-            console.log(`Falha ao pré-carregar conteúdo: ${key}`)
+            console.log(`Falha ao pré-carregar conteúdo do Aprenda: ${key}`)
+          );
+          fetch(`/content/socorros/${key}.json`).catch(() => 
+            console.log(`Falha ao pré-carregar Primeiros Socorros Rápidos: ${key}`)
           );
         }
       });

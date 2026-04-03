@@ -29,7 +29,7 @@ export default function FirstAccess() {
           fetch(`/content/${key}.md`).catch(() => 
             console.log(`Falha ao pré-carregar conteúdo do Aprenda: ${key}`)
           );
-          fetch(`/content/socorros/${key}.json`).catch(() => 
+          fetch(`/content/socorros/${key}.md`).catch(() => 
             console.log(`Falha ao pré-carregar Primeiros Socorros Rápidos: ${key}`)
           );
         }

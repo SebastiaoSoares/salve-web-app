@@ -12,7 +12,13 @@ export default function FirstAccess() {
   const navigate = useNavigate();
 
   useEffect(() => {
+    if (!navigator.onLine) {
+      console.log("Offline: pulando o download prévio dos arquivos.");
+      return; 
+    }
+
     fetch("/dados_salve.json").catch(() => console.log("Falha ao pré-carregar JSON"));
+
     fetch("/docs/terms-of-use.md").catch(() => {});
     fetch("/docs/privacy-policy.md").catch(() => {});
 

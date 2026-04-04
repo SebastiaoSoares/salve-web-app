@@ -84,13 +84,13 @@ Embora a RCP bem realizada garanta o fluxo sanguíneo mínimo e vital ao coraç�
 
 A única forma de reverter essa arritmia é ofertar corrente elétrica externa o mais rápido possível, ou seja, ofertar um choque elétrico que tecnicamente é chamado “desfibrilação”. A desfibrilação é o terceiro elo da cadeia de sobrevivência (ver figura a seguir) e até mesmo um leigo pode realizá-la com o auxílio de um equipamento chamado desfibrilador externo automático, conhecido como DEA.
 
-**a cada minuto de atraso na realização da desfibrilação, a chance de sobrevivência de uma pessoa diminui 10%, por isso é aconselhável utilizar o DEA assim que ele estiver disponível**
+**A cada minuto de atraso na realização da desfibrilação, a chance de sobrevivência de uma pessoa diminui 10%, por isso é aconselhável utilizar o DEA assim que ele estiver disponível**
 
 O DEA é um equipamento eletrônico simples e portátil que analisa automaticamente o ritmo cardíaco a cada dois minutos e utiliza comandos de voz e luzes para guiar o socorrista leigo durante a sequência de RCP. Após a análise, se indicado, o dispositivo fornece corrente elétrica de forma automática e sem a necessidade do comando do socorrista.
 
 **Desfibrilador externo automático (DEA)**
 
-**técnica básica de utilização**
+**Técnica básica de utilização**
 
 - Mantenha as compressões torácicas até que o DEA esteja ligado e em condições de uso.
 - Ligue o equipamento.
@@ -126,9 +126,11 @@ A RCP em crianças tem os mesmos princípios e passos previstos para o adulto, m
 
 Todas as demais observações realizadas para o adulto devem ser seguidas nessa faixa etária (frequência, minimização das interrupções e retorno do tórax).
 
-**técnica de compressão torácica em crianças (1 ano até a puberdade)**
+**Técnica de compressão torácica em crianças (1 ano até a puberdade)**
 
 - Posicione **as duas mãos ou apenas uma delas** (opcional para crianças muito pequenas) no centro do tórax, entre os mamilos da vítima.
 - A profundidade deve ser de **5 cm** (como no adulto).
 
 Todas as demais observações realizadas para o adulto devem ser seguidas nessa faixa etária (frequência, profundidade, minimização das interrupções e retorno do tórax).
+
+> *Nota: As orientações deste guia possuem caráter informativo e foram elaboradas a partir de diretrizes gerais do Ministério da Saúde e protocolos do SAMU no momento em que o aplicativo foi desenvolvido.*

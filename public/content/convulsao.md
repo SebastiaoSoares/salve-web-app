@@ -27,3 +27,5 @@ A convulsão ou crise convulsiva é decorrente de uma desordem elétrica involun
 DURANTE UMA CRISE CONVULSIVA, JAMAIS IMPEÇA OS MOVIMENTOS DA VÍTIMA E TAMPOUCO DÊ A ELA QUALQUER LÍQUIDO OU MEDICAÇÃO PELA BOCA.
 
 A pessoa em crise convulsiva costuma apresentar muita salivação (com aspecto de baba). Se isso acontecer, deite-a com a cabeça de lado e fique segurando a cabeça nessa posição. Assim, a saliva escoará com facilidade e a pessoa não ficará sufocada. Seque o excesso da saliva com um pano limpo. Após a convulsão, a vítima dorme e esse sono pode durar segundos ou horas. Portanto, cessada a crise, providencie um lugar confortável e deixe-a repousar até que recupere a consciência. Em seguida, encaminhe-a à assistência médica.
+
+> *Nota: As orientações deste guia possuem caráter informativo e foram elaboradas a partir de diretrizes gerais do Ministério da Saúde e protocolos do SAMU no momento em que o aplicativo foi desenvolvido.*

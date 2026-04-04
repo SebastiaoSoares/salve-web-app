@@ -45,6 +45,18 @@
   margin-top: -5px;
 }
 
+.importantNotice {
+  display: block;
+  font-size: 1rem;
+  color: var(--secondary-color);
+  border-radius: 8px;
+  margin-top: -5px;
+  padding: 1rem;
+  text-align: justify;
+  background-color: var(--highlight);
+  border-left: 5px solid var(--secondary-color);
+}
+
 .socorroLinks {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));

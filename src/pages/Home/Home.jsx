@@ -80,6 +80,12 @@ export default function Home() {
           ))}
         </div>
       </div>
+      <div>
+        <h2>Aviso Importante</h2>
+        <p className={Style.importantNotice}>
+          O SALVE é um aplicativo de caráter estritamente informativo. Ele não substitui o atendimento, diagnóstico ou orientação de profissionais de saúde qualificados. Em caso de emergência, ligue imediatamente para o 192 (SAMU) ou 193 (Bombeiros).
+        </p>
+      </div>
     </main>
   );
 }

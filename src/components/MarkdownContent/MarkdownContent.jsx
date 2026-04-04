@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import ReactMarkdown from "react-markdown";
+import styles from "./MarkdownContent.module.css";
 
 export default function MarkdownContent({ filePath }) {
   const [content, setContent] = useState("Carregando conteúdo...");
@@ -13,10 +14,14 @@ export default function MarkdownContent({ filePath }) {
       .then(setContent)
       .catch(() => {
         setContent(
-          "**Você está offline.** Este conteúdo ainda não foi salvo no seu dispositivo. Conecte-se à internet para baixá-lo pela primeira vez.",
+          "> **Aviso:** Você está offline e este conteúdo ainda não foi salvo no seu dispositivo. Conecte-se à internet para baixá-lo pela primeira vez.",
         );
       });
   }, [filePath]);
 
-  return <ReactMarkdown>{content}</ReactMarkdown>;
+  return (
+    <div className={styles.markdownContainer}>
+      <ReactMarkdown>{content}</ReactMarkdown>
+    </div>
+  );
 }

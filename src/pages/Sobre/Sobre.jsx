@@ -33,14 +33,21 @@ export default function Sobre() {
         <p>
           A solução digital do projeto foi desenvolvida por Sebastião Sousa
           Soares (
-          <a
-            href="https://github.com/sebastiaosoares"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            github.com/sebastiaosoares
+          <a href="https://sebas.dev.br" target="_blank" rel="noopener" title="Portfólio de Sebastião Soares">
+            sebas.dev.br
           </a>
           ).
+        </p>
+        <p>
+          Repositório do projeto:{" "}
+          <a
+            href="https://github.com/SebastiaoSoares/salve-web-app"
+            target="_blank"
+            rel="noopener"
+            title="Repositório do SALVE no GitHub"
+          >
+            github.com/SebastiaoSoares/salve-web-app
+          </a>
         </p>
       </div>
       <p className={Style.termsMessage}>

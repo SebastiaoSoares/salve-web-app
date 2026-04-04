@@ -33,6 +33,8 @@
     - **30 compressões torácicas** + **2 ventilações (boca a boca)**.
     - Continue até que a pessoa reaja ou chegue ajuda.
 
+*OBS: A proporção "30 compressões + 2 ventilações" é recomendada apenas para quem tem treinamento. Para socorristas sem experiência ou inseguros, focar apenas na massagem cardíaca contínua.*
+
 **5. Se estiver consciente, mantenha calma e aquecida**
 
 - Deite a vítima de lado (posição lateral de segurança).
@@ -45,3 +47,5 @@
 - Não tente "tirar a água dos pulmões" virando a pessoa de cabeça para baixo.
 
 Não deixe de ligar para ajuda médica, mesmo que a vítima pareça estar bem — há risco de complicações, como **afogamento secundário**.
+
+> *Nota: As orientações deste guia possuem caráter informativo e foram elaboradas a partir de diretrizes gerais do Ministério da Saúde e protocolos do SAMU no momento em que o aplicativo foi desenvolvido.*

@@ -22,8 +22,10 @@ As causas mais comuns incluem contato direto com chamas, substâncias inflamáve
 
 ### O que fazer?
 
-O atendimento inicial deve incluir o resfriamento da região afetada com água em temperatura ambiente, corrente ou por imersão, por no mínimo 15 minutos. Após esse procedimento, é indicado cobrir a área com um pano limpo, seco ou gaze estéril.
+O atendimento inicial deve incluir o resfriamento da região afetada com água em temperatura ambiente, corrente ou por imersão, por no mínimo 15 minutos. Após esse procedimento, é indicado cobrir frouxamente com um plástico limpo (como plástico filme) ou um pano limpo que não solte fiapos, para evitar hipotermia em queimaduras maiores.
 
 No caso de queimaduras em mãos ou pés, é importante separar os dedos que não estejam grudados utilizando gazes limpas entre eles.
 
 Queimaduras de maior extensão ou de segundo e terceiro grau exigem o acionamento de serviços de emergência. O atendimento médico imediato pode ser dispensado apenas quando se tratar de queimaduras de primeiro grau, com área afetada limitada.
+
+> *Nota: As orientações deste guia possuem caráter informativo e foram elaboradas a partir de diretrizes gerais do Ministério da Saúde e protocolos do SAMU no momento em que o aplicativo foi desenvolvido.*

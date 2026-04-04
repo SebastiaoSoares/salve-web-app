@@ -32,6 +32,8 @@ Os primeiros socorros para engasgamento grave é fazer a manobra de Heimlich, q
 
 Essa manobra pode ser feita quando a técnica para engasgamento leve não teve resultado ou quando as vias aéreas estão completamente obstruídas, que pode ser identificada quando a pessoa não consegue tossir, falar ou chorar.
 
+> Em gestantes (no terço final da gestação) e pessoas obesas, as compressões da Manobra de Heimlich devem ser feitas no centro do peito e não no abdômen.
+
 ### O que fazer quando engasgar sozinho
 
 Nos casos em que se está sozinho e a tosse não está ajudando, pode-se seguir os seguintes passos:
@@ -45,3 +47,5 @@ Esta manobra deve ser feita, de preferência, em cima de um tapete, mas numa sup
 No entanto, pode ser feita diretamente no chão, pois, embora exista risco de quebrar alguma costela, é uma manobra de emergência que pode ajudar a salvar a vida.
 
 Outra opção é realizar a manobra em cima de um balcão alto, apoiando o peso do corpo com os braços esticados sobre o balcão e depois deixando-o cair o tronco sobre o balcão com força.
+
+> *Nota: As orientações deste guia possuem caráter informativo e foram elaboradas a partir de diretrizes gerais do Ministério da Saúde e protocolos do SAMU no momento em que o aplicativo foi desenvolvido.*

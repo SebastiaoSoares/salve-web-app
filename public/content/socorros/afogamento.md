@@ -1,11 +1,20 @@
-1. **Acionar imediatamente o serviço de emergência** (192 ou 193).
-2. **Retirar a vítima da água com segurança**, sem se colocar em risco.  
-   - Use boias, cordas, galhos ou objetos flutuantes para auxiliar.  
-   - Se não tiver treinamento, evite entrar na água — chame socorro.
-3. **Deitar a vítima de costas** em local seguro.
-4. **Verificar consciência e respiração**:  
-   - Se não responder ou não respirar, iniciar **RCP** (30 compressões para 2 ventilações).  
-   - Se não souber ventilar, faça compressões contínuas até chegada do socorro.
-5. **Manter a vítima aquecida** após o resgate (cobertores, toalhas secas).
-6. **Se estiver consciente e respirando**, colocar em **posição lateral de segurança**.
-7. **Observar sinais de agravamento** (falta de ar, tosse persistente, confusão mental) mesmo após aparente recuperação.
+## Como agir em caso de Afogamento
+
+> **Sua segurança primeiro:** Se não tiver treinamento, NÃO entre na água para salvar. Use boias, cordas, galhos ou objetos flutuantes e puxe a pessoa.
+
+1. **Ligue para o resgate:** Acione imediatamente o **193** (Bombeiros) ou **192** (SAMU).
+2. **Retire a pessoa da água:** Deite a vítima de costas em um local firme e seguro.
+3. **Cheque a respiração:** Chame por ela e veja se o peito sobe e desce.
+
+## Se a vítima NÃO estiver respirando:
+
+* **Inicie a massagem cardíaca (RCP)** imediatamente (30 compressões para 2 ventilações).
+* Se você não souber ventilar, faça **apenas compressões contínuas** no centro do peito até o socorro chegar.
+
+## Se a vítima ESTIVER respirando:
+
+* **Vire a pessoa de lado** (Posição Lateral de Segurança). Isso evita que ela se afogue caso vomite.
+* **Aqueça a vítima** imediatamente usando cobertores ou toalhas secas.
+* **Observe sem parar:** Fique atento a sinais de piora (falta de ar ou confusão mental), mesmo que ela pareça bem.
+
+> *Nota: As orientações deste guia possuem caráter informativo e foram elaboradas a partir de diretrizes gerais do Ministério da Saúde e protocolos do SAMU no momento em que o aplicativo foi desenvolvido.*
